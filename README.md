@@ -1,4 +1,4 @@
-# Development of an Intelligent Obstacle Avoidance System for Turtlebot3 using ROS , Gazebo and Laser finder
+# Development of an Intelligent Obstacle Avoidance System for Turtlebot3 using ROS, Gazebo and Laser finder
 ## INTRODUCTION
 
 Obstacle avoidance is essential for autonomous robots that are used in various applications, including robotics, autonomous vehicles, and industrial automation. The project's primary objective is to create a reliable and efficient obstacle avoidance system that allows Turtlebot3 to navigate through complex environments and avoid obstacles without collisions. The system uses multiple sensors, including a laser range finder, to detect obstacles and implement a reactive approach to control the robot's movements. The reactive approach generates a control command that adjusts the Turtlebot3's movement based on the sensor inputs in real-time. The system can navigate through environments with obstacles of various sizes and shapes.
